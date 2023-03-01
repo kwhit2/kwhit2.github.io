@@ -136,9 +136,9 @@
       strings: typed_strings,
       loop: true,
       startDelay: 1000,
-      typeSpeed: 100,
-      backSpeed: 50,
-      backDelay: 2000
+      typeSpeed: 50,
+      backSpeed: 25,
+      backDelay: 1200
     });
   }
 
